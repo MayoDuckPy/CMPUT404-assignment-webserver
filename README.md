@@ -24,3 +24,10 @@ examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
+---
+
+Modifications have been made to server.py by:
+
+* Michael Huang
+
+Note that this project is still under the Apache-2.0 license where applicable.
